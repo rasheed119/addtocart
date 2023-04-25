@@ -4,7 +4,6 @@ import {useState} from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import Badge from 'react-bootstrap/Badge';
 import cart from "./cart.svg";
 
 
