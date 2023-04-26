@@ -26,6 +26,7 @@ p {
   gap: 2rem;
   justify-content: center;
   margin: 27px;
+  align-items: center;
 }
 .card-container img{
   width: 250px;
